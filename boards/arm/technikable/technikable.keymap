@@ -17,7 +17,7 @@
 
 / {
     chosen {
-       zmk,physical-layout = &layout_ortho_4x12_all1u;
+       zmk,physical-layout = &technikable_ortho_layout;
     };
 
     keymap {
